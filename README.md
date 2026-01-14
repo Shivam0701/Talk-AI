@@ -1,4 +1,4 @@
-# Talk AI (V1) — AI Emotional Companion (SaaS Starter)
+# Talkive (V1) — AI Emotional Companion (SaaS Starter)
 
 Dark, calm, glassy AI companion web app. **Not a therapist or medical product.**
 

@@ -12,7 +12,7 @@ export function TopBar() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
         <Link to="/" className="flex items-center gap-2">
           <div className="h-8 w-8 rounded-xl bg-slate-800 border border-white/10" />
-          <div className="text-sm font-semibold tracking-wide">Talk AI</div>
+          <div className="text-sm font-semibold tracking-wide">Talkive</div>
         </Link>
 
         <div className="flex items-center gap-3">

@@ -23,7 +23,7 @@ export default function Landing() {
           </h1>
 
           <p className="mt-5 text-base md:text-lg text-slate-300 leading-relaxed">
-            Talk AI is an emotional companion — not a therapist — designed for lonely moments.
+            Talkive is an emotional companion — not a therapist — designed for lonely moments.
             Soft replies. Warm presence. No judgment.
           </p>
 
@@ -65,7 +65,7 @@ export default function Landing() {
           <GlassCard className="p-6">
             <div className="text-sm font-semibold">Important note</div>
             <div className="mt-2 text-sm text-slate-300 leading-relaxed">
-              Talk AI is not a medical or therapy product. If you feel unsafe or in danger, please reach out to trusted
+              Talkive is not a medical or therapy product. If you feel unsafe or in danger, please reach out to trusted
               people or local emergency services.
             </div>
           </GlassCard>
